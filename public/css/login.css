@@ -1,0 +1,10 @@
+form {
+    display: table;
+    width: 16em;
+}
+.formitem {
+    display: table-row;
+}
+.cell {
+    display: table-cell;
+}
